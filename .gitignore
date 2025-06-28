@@ -13,3 +13,5 @@ docs/
 # Dotenv file
 .env
 .github
+bun.lock
+node_modules
